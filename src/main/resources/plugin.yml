@@ -1,0 +1,11 @@
+name: Mob
+version: '${project.version}'
+main: orion.mob.Mob
+api-version: 1.16
+authors: [ NEXOmega ]
+description: A Mob plugin for OrionMMORPG
+commands:
+  test:
+    description: "Test"
+  mobdata:
+    description: "Mob Data"
